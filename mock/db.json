@@ -1,0 +1,545 @@
+{
+  "unidades": [
+    {
+      "id": "1",
+      "nome": "Augue Malesuada Institute",
+      "createdAt": "2024-11-27 02:30:53",
+      "updatedAt": "2023-11-14 08:11:41"
+    },
+    {
+      "id": "2",
+      "nome": "Luctus Et LLC",
+      "createdAt": "2023-10-02 14:55:58",
+      "updatedAt": "2023-08-30 10:38:07"
+    },
+    {
+      "id": "3",
+      "nome": "Proin Nisl LLP",
+      "createdAt": "2024-05-07 23:48:12",
+      "updatedAt": "2024-08-12 08:26:15"
+    },
+    {
+      "id": "4",
+      "nome": "Enim Consequat Institute",
+      "createdAt": "2024-04-01 15:43:33",
+      "updatedAt": "2023-05-04 23:30:22"
+    },
+    {
+      "id": "5",
+      "nome": "Auctor Nunc Nulla Inc.",
+      "createdAt": "2024-05-01 22:48:10",
+      "updatedAt": "2024-11-12 03:59:40"
+    },
+    {
+      "id": "6",
+      "nome": "Congue A Aliquet Inc.",
+      "createdAt": "2024-10-10 17:14:42",
+      "updatedAt": "2024-03-22 03:45:47"
+    },
+    {
+      "id": "7",
+      "nome": "Nisl Quisque Corporation",
+      "createdAt": "2024-10-06 13:03:00",
+      "updatedAt": "2025-03-07 10:11:00"
+    },
+    {
+      "id": "8",
+      "nome": "Ac Mi Corp.",
+      "createdAt": "2023-08-16 15:28:21",
+      "updatedAt": "2023-09-10 18:49:55"
+    },
+    {
+      "id": "9",
+      "nome": "Amet Consectetuer Adipiscing Limited",
+      "createdAt": "2025-02-12 12:40:15",
+      "updatedAt": "2023-12-07 20:20:54"
+    },
+    {
+      "id": "10",
+      "nome": "Tristique Neque Limited",
+      "createdAt": "2024-09-06 16:57:53",
+      "updatedAt": "2024-12-03 05:10:40"
+    },
+    {
+      "id": "11",
+      "nome": "Quisque Imperdiet Ltd",
+      "createdAt": "2024-11-28 12:00:26",
+      "updatedAt": "2023-11-02 11:57:43"
+    },
+    {
+      "id": "12",
+      "nome": "Pede PC",
+      "createdAt": "2023-07-23 16:54:16",
+      "updatedAt": "2023-05-07 04:03:38"
+    },
+    {
+      "id": "13",
+      "nome": "Penatibus Et LLC",
+      "createdAt": "2024-11-25 22:09:54",
+      "updatedAt": "2023-07-13 10:56:43"
+    },
+    {
+      "id": "14",
+      "nome": "Enim Suspendisse Corporation",
+      "createdAt": "2024-10-06 17:33:35",
+      "updatedAt": "2023-07-18 01:35:20"
+    },
+    {
+      "id": "15",
+      "nome": "Ac Tellus Suspendisse Company",
+      "createdAt": "2023-04-24 12:37:20",
+      "updatedAt": "2023-07-30 05:44:25"
+    }
+  ],
+  "empresas": [
+    {
+      "id": "1",
+      "razaoSocial": "Phasellus Company",
+      "cnpj": "92.446.921/0001-81",
+      "logradouro": "Ap #198-1869 Vitae Av.",
+      "municipio": "Popayán",
+      "numero": "5",
+      "complemento": "Lillian Best",
+      "bairro": "Sindh",
+      "cep": "65052-246",
+      "telefone": "(88)96866-3942",
+      "email": "euismod.et@protonmail.com",
+      "site": "http://guardian.co.uk",
+      "usuario": "Lester",
+      "senha": "KEG24OQN5IS",
+      "cheatedAt": "2023-07-10 08:26:19",
+      "updatedAt": "2023-04-30 08:12:53"
+    },
+    {
+      "id": "2",
+      "razaoSocial": "At Institute",
+      "cnpj": "88.985.512/0001-54",
+      "logradouro": "9976 Eu St.",
+      "municipio": "Sarpsborg",
+      "numero": "5",
+      "complemento": "Tad Roberts",
+      "bairro": "Cesar",
+      "cep": "88475-265",
+      "telefone": "(68)31982-5081",
+      "email": "egestas@protonmail.com",
+      "site": "http://instagram.com",
+      "usuario": "Ryan",
+      "senha": "LMC24PGF2KY",
+      "cheatedAt": "2024-09-10 17:30:05",
+      "updatedAt": "2024-10-04 08:32:09"
+    },
+    {
+      "id": "3",
+      "razaoSocial": "Nec Eleifend Industries",
+      "cnpj": "86.145.266/0001-50",
+      "logradouro": "Ap #142-571 Libero. St.",
+      "municipio": "Quy Nhơn",
+      "numero": "3",
+      "complemento": "Asher Gordon",
+      "bairro": "Hidalgo",
+      "cep": "66712-514",
+      "telefone": "(25)66484-1667",
+      "email": "integer@protonmail.com",
+      "site": "http://netflix.com",
+      "usuario": "Hashim",
+      "senha": "DEN83HFQ8HM",
+      "cheatedAt": "2023-06-16 19:31:00",
+      "updatedAt": "2024-12-05 03:55:51"
+    },
+    {
+      "id": "4",
+      "razaoSocial": "Nulla Semper Tellus Inc.",
+      "cnpj": "45.188.691/0001-82",
+      "logradouro": "920-7851 Laoreet St.",
+      "municipio": "Dutse",
+      "numero": "3",
+      "complemento": "Aurora Mcclure",
+      "bairro": "Cantabria",
+      "cep": "89774-061",
+      "telefone": "(14)18579-4267",
+      "email": "elit.curabitur@aol.com",
+      "site": "https://walmart.com",
+      "usuario": "Boris",
+      "senha": "TCE56HPX8WQ",
+      "cheatedAt": "2024-01-09 12:34:04",
+      "updatedAt": "2024-11-01 10:35:16"
+    },
+    {
+      "id": "5",
+      "razaoSocial": "Diam At Corporation",
+      "cnpj": "42.862.312/0001-86",
+      "logradouro": "Ap #600-5579 Mattis Av.",
+      "municipio": "Poznań",
+      "numero": "2",
+      "complemento": "Lysandra Mccarty",
+      "bairro": "Friesland",
+      "cep": "65473-711",
+      "telefone": "(43)21727-8138",
+      "email": "neque.sed@google.com",
+      "site": "https://naver.com",
+      "usuario": "Kenyon",
+      "senha": "DPH45RTD6OV",
+      "cheatedAt": "2025-01-30 11:44:54",
+      "updatedAt": "2023-04-05 11:27:19"
+    },
+    {
+      "id": "7",
+      "razaoSocial": "Morbi Associates",
+      "cnpj": "19.773.156/0001-78",
+      "logradouro": "5017 Molestie Rd.",
+      "municipio": "Pskov",
+      "numero": "10",
+      "complemento": "Germaine Gould",
+      "bairro": "South Island",
+      "cep": "45342-719",
+      "telefone": "(48)23806-2963",
+      "email": "pellentesque.eget@aol.com",
+      "site": "http://naver.com",
+      "usuario": "Honorato",
+      "senha": "QDK65TUC7IE",
+      "cheatedAt": "2023-06-03 08:27:04",
+      "updatedAt": "2024-01-20 06:55:40"
+    },
+    {
+      "id": "8",
+      "razaoSocial": "Nullam Lobortis Quam LLC",
+      "cnpj": "46.637.056/0001-56",
+      "logradouro": "781-8183 Orci. Road",
+      "municipio": "Palma de Mallorca",
+      "numero": "0",
+      "complemento": "Tanek Salas",
+      "bairro": "Sachsen",
+      "cep": "99636-774",
+      "telefone": "(36)58426-7788",
+      "email": "nisi.aenean.eget@hotmail.com",
+      "site": "http://bbc.co.uk",
+      "usuario": "Rosalyn",
+      "senha": "GCR17XWL2JS",
+      "cheatedAt": "2023-08-18 12:11:12",
+      "updatedAt": "2024-08-18 02:38:07"
+    },
+    {
+      "razaoSocial": "Mi Corp.",
+      "cnpj": "56.285.517/0001-67",
+      "logradouro": "559-7571 Ac Rd.",
+      "municipio": "Barrancaaaaa",
+      "numero": "666",
+      "complemento": "Brenna Wilkinson",
+      "bairro": "Drenthe",
+      "cep": "58728-027",
+      "telefone": "(25)35577-9273",
+      "email": "tellus@protonmail.com",
+      "site": "http://zoom.us",
+      "usuario": "Tyrone",
+      "senha": "BCW18RCG2WV",
+      "updatedAt": "2024-04-01 05:22:24",
+      "id": "9"
+    },
+    {
+      "id": "11",
+      "razaoSocial": "Consequat Lectus Limited",
+      "cnpj": "65.576.883/0001-51",
+      "logradouro": "8380 Porttitor Street",
+      "municipio": "Stratford",
+      "numero": "2",
+      "complemento": "Jasper Whitfield",
+      "bairro": "West-Vlaanderen",
+      "cep": "74773-633",
+      "telefone": "(58)48765-4115",
+      "email": "neque.pellentesque@icloud.com",
+      "site": "http://netflix.com",
+      "usuario": "Ora",
+      "senha": "AIK04CTC4VI",
+      "cheatedAt": "2023-12-23 23:45:29",
+      "updatedAt": "2024-09-02 07:18:17"
+    },
+    {
+      "id": "12",
+      "razaoSocial": "Sit Amet LLP",
+      "cnpj": "39.412.788/0001-62",
+      "logradouro": "442-9373 Non Road",
+      "municipio": "Jacksonville",
+      "numero": "6",
+      "complemento": "Neve Anderson",
+      "bairro": "Calabarzon",
+      "cep": "82147-718",
+      "telefone": "(56)22214-4884",
+      "email": "suspendisse.tristique.neque@aol.com",
+      "site": "https://google.com",
+      "usuario": "Roanna",
+      "senha": "PSU58DDS7OM",
+      "cheatedAt": "2023-10-29 12:59:12",
+      "updatedAt": "2023-12-23 17:08:54"
+    },
+    {
+      "id": "13",
+      "razaoSocial": "Curabitur Consequat Corporation",
+      "cnpj": "32.711.563/0001-24",
+      "logradouro": "Ap #804-7181 Duis Av.",
+      "municipio": "Chongqing",
+      "numero": "3",
+      "complemento": "Chase Murphy",
+      "bairro": "Tennessee",
+      "cep": "67486-317",
+      "telefone": "(55)53833-6042",
+      "email": "nunc.est.mollis@yahoo.com",
+      "site": "https://walmart.com",
+      "usuario": "Elijah",
+      "senha": "BJQ78KDP5KF",
+      "cheatedAt": "2023-08-11 06:40:03",
+      "updatedAt": "2024-07-19 23:33:55"
+    },
+    {
+      "id": "14",
+      "razaoSocial": "Nibh Lacinia Ltd",
+      "cnpj": "83.159.144/0001-83",
+      "logradouro": "593-5421 Aliquam Av.",
+      "municipio": "Lelystad",
+      "numero": "2",
+      "complemento": "Byron Reeves",
+      "bairro": "Murcia",
+      "cep": "89382-225",
+      "telefone": "(44)29607-4341",
+      "email": "sociosqu.ad@google.com",
+      "site": "https://guardian.co.uk",
+      "usuario": "Basil",
+      "senha": "JBV14BVQ7JW",
+      "cheatedAt": "2025-03-19 21:30:31",
+      "updatedAt": "2024-10-05 03:42:40"
+    },
+    {
+      "id": "15",
+      "razaoSocial": "Sem Foundation",
+      "cnpj": "39.208.339/0001-07",
+      "logradouro": "188-6362 Tortor. Street",
+      "municipio": "Kacchi",
+      "numero": 5,
+      "complemento": "Kyla Garner",
+      "bairro": "Saskatchewan",
+      "cep": "48437-448",
+      "telefone": "(44)05485-6686",
+      "email": "at.pretium.aliquet@aol.com",
+      "site": "http://wikipedia.org",
+      "usuario": "David",
+      "senha": "HEG12OFB8MA",
+      "cheatedAt": "2023-10-10 14:08:40",
+      "updatedAt": "2023-12-15 02:18:39"
+    }
+  ],
+  "leiloes": [
+    {
+      "id": "9",
+      "codigo": "90381",
+      "decricao": "Proin non massa",
+      "vendedor": "Rafael Kaufman",
+      "InicioPrevisto": "2023-11-15 07:30:07",
+      "cheatedAt": "2024-03-30 02:19:54",
+      "updatedAt": "2024-07-21 19:46:37",
+      "razaoSocial": "Phasellus Company",
+      "lotes": [
+        {
+          "id": "22",
+          "numeroLote": 3534,
+          "decricao": "tristique pharetra. Quisque ac libero nec ligula consectetuer rhoncus. Nullam",
+          "quantidade": 12,
+          "valorInicial": 656,
+          "unidade": "ligula consectetuer ",
+          "cheatedAt": "2024-09-03 21:18:21",
+          "updatedAt": "2023-05-01 13:38:52"
+        },
+        {
+          "id": "23",
+          "numeroLote": 94595313521,
+          "decricao": "tristique pharetra. Quisque ac libero nec ligula consectetuer rhoncus. Nullam",
+          "quantidade": 1,
+          "valorInicial": 65,
+          "unidade": "ligula consectetuer ",
+          "cheatedAt": "2024-09-03 21:18:21",
+          "updatedAt": "2023-05-01 13:38:52"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "codigo": "22601",
+      "decricao": "sem semper erat, in consectetuer ipsum nunc id enim.",
+      "vendedor": "James Hanson",
+      "InicioPrevisto": "2024-06-21 08:43:00",
+      "cheatedAt": "2024-09-01 21:41:25",
+      "updatedAt": "2023-06-14 22:33:37",
+      "razaoSocial": "At Institute",
+      "lotes": [
+        {
+          "id": "22",
+          "numeroLote": 3534,
+          "decricao": "tristique pharetra. Quisque ac libero nec ligula consectetuer rhoncus. Nullam",
+          "quantidade": 11,
+          "valorInicial": 656,
+          "unidade": "ligula consectetuer ",
+          "cheatedAt": "2024-09-03 21:18:21",
+          "updatedAt": "2023-05-01 13:38:52"
+        },
+        {
+          "id": "23",
+          "numeroLote": 94595313521,
+          "decricao": "tristique pharetra. Quisque ac libero nec ligula consectetuer rhoncus. Nullam",
+          "quantidade": 13,
+          "valorInicial": 65,
+          "unidade": "ligula consectetuer ",
+          "cheatedAt": "2024-09-03 21:18:21",
+          "updatedAt": "2023-05-01 13:38:52"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "codigo": "96722",
+      "decricao": "eu, ligula. Aenean euismod mauris eu",
+      "vendedor": "Justin Page",
+      "InicioPrevisto": "2024-01-08 22:28:13",
+      "cheatedAt": "2023-08-12 14:17:50",
+      "updatedAt": "2024-09-26 05:48:47",
+      "razaoSocial": "Nec Eleifend Industries",
+      "lotes": [
+        {
+          "id": "22",
+          "numeroLote": 3534,
+          "decricao": "tristique pharetra. Quisque ac libero nec ligula consectetuer rhoncus. Nullam",
+          "quantidade": 12,
+          "valorInicial": 656,
+          "unidade": "ligula consectetuer ",
+          "cheatedAt": "2024-09-03 21:18:21",
+          "updatedAt": "2023-05-01 13:38:52"
+        },
+        {
+          "id": "23",
+          "numeroLote": 94595313521,
+          "decricao": "tristique pharetra. Quisque ac libero nec ligula consectetuer rhoncus. Nullam",
+          "quantidade": 1,
+          "valorInicial": 65,
+          "unidade": "ligula consectetuer ",
+          "cheatedAt": "2024-09-03 21:18:21",
+          "updatedAt": "2023-05-01 13:38:52"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "codigo": "10327",
+      "decricao": "Nullam enim. Sed nulla ante, iaculis nec, eleifend",
+      "vendedor": "Cade Whitney",
+      "InicioPrevisto": "2024-02-18 05:32:59",
+      "cheatedAt": "2023-08-30 01:03:10",
+      "updatedAt": "2024-04-03 21:52:20",
+      "razaoSocial": "Nulla Semper Tellus Inc.",
+      "lotes": [
+        {
+          "id": "20",
+          "numeroLote": 65,
+          "decricao": "tristique pharetra. Quisque ac libero nec ligula consectetuer rhoncus. Nullam",
+          "quantidade": 56,
+          "valorInicial": 2,
+          "unidade": "ligula consectetuer ",
+          "cheatedAt": "2024-09-03 21:18:21",
+          "updatedAt": "2023-05-01 13:38:52"
+        },
+        {
+          "id": "21",
+          "numeroLote": 8405,
+          "decricao": "tristique pharetra. Quisque ac libero nec ligula consectetuer rhoncus. Nullam",
+          "quantidade": 1,
+          "valorInicial": 65,
+          "unidade": "ligula consectetuer ",
+          "cheatedAt": "2024-09-03 21:18:21",
+          "updatedAt": "2023-05-01 13:38:52"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "codigo": "90802",
+      "decricao": "sit amet nulla. Donec non justo. Proin non",
+      "vendedor": "Kennedy Powers",
+      "InicioPrevisto": "2024-11-05 02:41:23",
+      "cheatedAt": "2023-09-30 09:39:45",
+      "updatedAt": "2024-02-02 10:13:27",
+      "razaoSocial": "Diam At Corporation",
+      "lotes": [
+        {
+          "id": "18",
+          "numeroLote": 8970864,
+          "decricao": "tristique pharetra. Quisque ac libero nec ligula consectetuer rhoncus. Nullam",
+          "quantidade": 10,
+          "valorInicial": 97,
+          "unidade": "ligula consectetuer ",
+          "cheatedAt": "2024-09-03 21:18:21",
+          "updatedAt": "2023-05-01 13:38:52"
+        },
+        {
+          "id": "19",
+          "numeroLote": 685406541,
+          "decricao": "tristique pharetra. Quisque ac libero nec ligula consectetuer rhoncus. Nullam",
+          "quantidade": 1,
+          "valorInicial": 65,
+          "unidade": "ligula consectetuer ",
+          "cheatedAt": "2024-09-03 21:18:21",
+          "updatedAt": "2023-05-01 13:38:52"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "codigo": "14854",
+      "decricao": "mauris, rhoncus id, mollis nec, cursus a, enim. Suspendisse aliquet,",
+      "vendedor": "Norman Montoya",
+      "InicioPrevisto": "2024-07-23 08:57:05",
+      "cheatedAt": "2024-09-03 21:18:21",
+      "updatedAt": "2023-05-01 13:38:52",
+      "razaoSocial": "Sapien Molestie Orci Corp.",
+      "lotes": [
+        {
+          "id": "16",
+          "numeroLote": 6540864,
+          "decricao": "tristique pharetra. Quisque ac libero nec ligula consectetuer rhoncus. Nullam",
+          "quantidade": 1,
+          "valorInicial": 944,
+          "unidade": "ligula consectetuer ",
+          "cheatedAt": "2024-09-03 21:18:21",
+          "updatedAt": "2023-05-01 13:38:52"
+        },
+        {
+          "id": "17",
+          "numeroLote": 9774,
+          "decricao": "tristique pharetra. Quisque ac libero nec ligula consectetuer rhoncus. Nullam",
+          "quantidade": 1,
+          "valorInicial": 9797,
+          "unidade": "ligula consectetuer ",
+          "cheatedAt": "2024-09-03 21:18:21",
+          "updatedAt": "2023-05-01 13:38:52"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "codigo": "92134",
+      "decricao": "tristique pharetra. Quisque ac libero nec ligula consectetuer rhoncus. Nullam",
+      "vendedor": "Blythe Irwin",
+      "InicioPrevisto": "2024-07-06 15:56:49",
+      "cheatedAt": "2023-08-30 14:28:54",
+      "updatedAt": "2024-05-28 22:03:46",
+      "razaoSocial": "Morbi Associates",
+      "lotes": [
+        {
+          "id": "15",
+          "numeroLote": 8443541,
+          "decricao": "tristique pharetra. Quisque ac libero nec ligula consectetuer rhoncus. Nullam",
+          "quantidade": 2,
+          "valorInicial": 6500,
+          "unidade": "ligula consectetuer ",
+          "cheatedAt": "2024-09-03 21:18:21",
+          "updatedAt": "2023-05-01 13:38:52"
+        }
+      ]
+    }
+  ]
+}
